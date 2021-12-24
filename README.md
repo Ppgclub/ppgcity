@@ -18,4 +18,4 @@
       [18] pip2 install tqdm
       [19] cd MrVik
       [20] git pull
-      [21] python2 MrVik.py
+      [21] python2 kontol.py
